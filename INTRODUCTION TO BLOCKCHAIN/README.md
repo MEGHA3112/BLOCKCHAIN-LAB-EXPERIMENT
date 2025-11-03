@@ -19,6 +19,7 @@ No.	Experiment Title	Abstract
 11.	Blockchain in Supply Chains – Use Case Analysis	Studies blockchain integration in logistics and supply chain management for transparency, provenance tracking, and fraud reduction.
 12.	Build a Use Case – Tokenized Supply Chain Prototype	Designs a decentralized application (DApp) prototype integrating smart contracts and tokenized assets to simulate real-world supply chains.
 13.	Security First – Understanding Blockchain Attacks Prototype	Simulates blockchain vulnerabilities such as 51% attacks, double spending, and Sybil attacks to analyze preventive defense strategies.
+
 🎯 Learning Outcomes
 
 Upon completing these experiments, students will be able to:
